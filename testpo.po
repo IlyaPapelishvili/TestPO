@@ -1,11 +1,14 @@
 #: finddialog.cpp: 38 
-msgstr  "Шаровые скопления" 
+msgstr  "And everyone thinks I dodged a bullet
+But I think I shot the gun" 
 msgstr  ""
 ⁠
 #: Finddialog.cpp: 39 
-MSGID  "газообразная Туманность" 
+MSGID  "And everyone thinks I dodged a bullet
+But I think I shot the gun" 
 вывод ,  ""
 ⁠
 #: finddialog.cpp: 40 
-msgstr  "Планетарные туманности" 
+msgstr  "And everyone thinks I dodged a bullet
+But I think I shot the gun" 
 msgstr  ""
