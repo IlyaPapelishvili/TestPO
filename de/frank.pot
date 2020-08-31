@@ -1,6 +1,6 @@
 #: /views/partials/case-band.j2:6 /views/partials/case-band.j2:7
 msgid "A screenshot of a website using AMP."
-msgstr ""
+msgstr "lghfddfghy"
 
 #: /views/partials/format-visuals/websites.j2:10
 msgid "A screenshot showing amp-sidebar."
@@ -8,7 +8,7 @@ msgstr ""
 
 #: /views/partials/format-visuals/websites.j2:7
 msgid "A website screenshot."
-msgstr ""
+msgstr "hjkgkl"
 
 #: /views/partials/footer.j2:73
 msgid "AMP Brand Materials"
